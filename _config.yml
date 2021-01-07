@@ -1,0 +1,21 @@
+title: Discord Markdown Guide
+description: A simple guide to Discord Markdown and it's text formatting.
+markdown: GFM
+url: https://alexislours.github.io
+remote_theme: Nexies1/just-the-docs
+color_scheme: custom
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+description: Fan-made beginner's guide for AC:NH
+permalink: pretty 
+back_to_top: true
+back_to_top_text: "Back to top" 
+last_edit_timestamp: true
+last_edit_time_format: "%b %e %Y at %I:%M %p" 
+search.button: true
+kramdown:
+  input: GFM
+aux_links:
+    '<button class="btn" id="theme-toggle"></button>':
+      - '#"onclick="modeSwitcher()"'
