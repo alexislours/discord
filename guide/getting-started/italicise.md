@@ -8,7 +8,7 @@ permalink: italicise/
 
 # Italicise
 
-Encapsulating your text with an asterisk (`*`) or an underscore (`_`) will make it look italicised.
+Encapsulating your text with an asterisk (`*`) or an underscore (`_`) will make it look *italicised*.
 
 Example:
 
