@@ -14,7 +14,14 @@ Using this guide, you will be able to learn all the cool formatting offered by D
 {: .note}
 While this guide is written specifically for Discord's flavor of markdown, it will also apply, to some extent, to other markdown processors.
 
-# Acknowledgements
+## Terminology
+
+| Term | Meaning |
+|-|-|
+| DFM | **D**iscord **F**lavored **M**arkdown, the markdown Discord uses. |
+| GFM | **G**itHub **F**lavored **M**arkdown, the markdown GitHub uses. |
+
+## Acknowledgements
 
 This guide was made by Alexis#8717 using [Just the Docs](https://pmarsceill.github.io/just-the-docs/), a Jekyll theme for documentation.
 
