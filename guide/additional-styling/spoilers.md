@@ -7,6 +7,7 @@ permalink: spoilers/
 ---
 
 # Spoilers
+
 {: .caution }
 This feature is unique to DFM and doesn't exist for other markdown processors. Using it may or may not result in creating a markdown table.
 
