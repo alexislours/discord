@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Getting Started
+title: Basic Styling
 nav_order: 2
 has_children: true
 has_toc: false
-permalink: getting-started/
+permalink: basic-styling/
 ---
 
-# Getting Started
+# Basic Styling
 
 This part of the guide will focus on basic text formattings, ones you might use on a daily basis as a Discord user and that only affect how your text looks.
 

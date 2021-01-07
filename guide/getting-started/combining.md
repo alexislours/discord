@@ -2,7 +2,7 @@
 layout: default
 title: Combining
 nav_order: 7
-parent: Getting Started
+parent: Basic Styling
 permalink: combining/
 ---
 

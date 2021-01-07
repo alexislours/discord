@@ -2,7 +2,7 @@
 layout: default
 title: Strikethrough
 nav_order: 5
-parent: Getting Started
+parent: Basic Styling
 permalink: strikethrough/
 ---
 

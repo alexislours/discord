@@ -2,7 +2,7 @@
 layout: default
 title: Underline
 nav_order: 6
-parent: Getting Started
+parent: Basic Styling
 permalink: underline/
 ---
 

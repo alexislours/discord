@@ -2,7 +2,7 @@
 layout: default
 title: Italicise
 nav_order: 3
-parent: Getting Started
+parent: Basic Styling
 permalink: italicise/
 ---
 

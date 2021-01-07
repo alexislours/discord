@@ -2,7 +2,7 @@
 layout: default
 title: Bold
 nav_order: 4
-parent: Getting Started
+parent: Basic Styling
 permalink: bold/
 ---
 
