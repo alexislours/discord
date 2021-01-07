@@ -1,0 +1,82 @@
+.main-content {
+    dl {
+        grid-template: auto / 5em 1fr;
+    }
+}
+
+.admonition {
+    border-left: $border-radius solid nth($blue-000, 1);
+    border-radius: $border-radius;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08);
+    padding-bottom: 0.2em;
+    padding-left: 1em;
+    padding-right: 1em;
+    background: rgba($blue-000, 0.2);
+}
+
+.admonition-title {
+    color: $blue-000;
+    display: block;
+    font-weight: bold;
+    font-size: 1.05em;
+    padding-bottom: 0.1rem;
+}
+
+$callouts: (
+    note: (
+        $blue-000,
+        rgba($blue-000, 0.2),
+        "NOTE",
+    ),
+    caution: (
+        $yellow-300,
+        rgba($yellow-000, 0.2),
+        "WARNING",
+    ),
+    danger: (
+        $red-300,
+        rgba($red-000, 0.2),
+        "DANGER",
+    ),
+);
+
+@each $class, $props in $callouts {
+    .#{$class} {
+        background: nth($props, 2);
+        border-left: $border-radius solid nth($props, 1);
+        border-radius: $border-radius;
+        box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08);
+        padding: 0.8rem;
+
+        &::before {
+            color: nth($props, 1);
+            content: nth($props, 3);
+            display: block;
+            font-weight: bold;
+            font-size: 0.75em;
+            padding-bottom: 0.125rem;
+        }
+    }
+}
+
+blockquote.note {
+    margin-left: 0;
+
+    > p:first-child {
+        margin-top: 0;
+    }
+
+    > p:last-child {
+        margin-bottom: 0;
+    }
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
