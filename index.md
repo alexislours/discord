@@ -11,6 +11,9 @@ Discord MD is a simple guide to learn the Markdown flavor [Discord](https://disc
 
 Using this guide, you will be able to learn all the cool formatting offered by Discord that you can use to empower your messages.
 
+{: .note}
+> While this guide is written specifically for Discord's flavor of markdown, it will also apply, to some extent, to other markdown processors.
+
 # Acknowledgements
 
 This guide was made by `Alexis#8717` using [Just the Docs](https://pmarsceill.github.io/just-the-docs/), a Jekyll theme for documentation.
