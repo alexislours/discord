@@ -16,6 +16,6 @@ Using this guide, you will be able to learn all the cool formatting offered by D
 
 # Acknowledgements
 
-This guide was made by `Alexis#8717` using [Just the Docs](https://pmarsceill.github.io/just-the-docs/), a Jekyll theme for documentation.
+This guide was made by Alexis#8717 using [Just the Docs](https://pmarsceill.github.io/just-the-docs/), a Jekyll theme for documentation.
 
 The source code of this guide is available under [CC0](https://github.com/alexislours/discord/blob/master/LICENSE) in [this repository](https://github.com/alexislours/discord/). 
