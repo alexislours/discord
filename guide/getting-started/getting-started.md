@@ -9,7 +9,7 @@ permalink: getting-started/
 
 # Getting Started
 
-This part of the guide will focus on basic formatting, ones you might use on a daily basis as a Discord user and that only affect how your text looks.
+This part of the guide will focus on basic text formattings, ones you might use on a daily basis as a Discord user and that only affect how your text looks.
 
 This will include the following topics:
 
