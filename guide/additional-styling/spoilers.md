@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Spoilers
-nav_order: 4
-parent: Basic Styling
+nav_order: 9
+parent: Additional Styling
 permalink: spoilers/
 ---
 
@@ -16,9 +16,10 @@ Example:
 
 Result:  
 Before clicking:  
-![Spoilers before clicking](/assets/spoiler-pre-click.png)
+![Spoilers before clicking](/discord/assets/spoiler-pre-click.png)
+
 After clicking:  
-![Spoilers after clicking](/assets/spoiler-after-click.png)
+![Spoilers after clicking](/discord/assets/spoiler-after-click.png)
 
 {: .note}
 Spoilers will also remove the preview from links, you can learn how to get a similar result [here](/discord/remove-embeds).
