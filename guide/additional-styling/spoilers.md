@@ -12,7 +12,7 @@ Encapsulating your text with two vertical bars (`||`) around text will make it a
 
 Example:
 
-||Spoiler Text||
+\|\|Spoiler Text\|\|
 
 Result:  
 Before clicking:  
