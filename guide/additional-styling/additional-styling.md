@@ -19,4 +19,4 @@ This will include the following topics:
 | [Inline code blocks](/discord/inline-code) | To display code in a single line. |
 | [Multine code blocks](/discord/multiline-code) | To display code that spans over multiple lines. |
 | [Quotes](/discord/quotes) | Quote text. |
-| [Removing embeds](/discord/remove-embeds) | Makes text underlined. |
+| [Removing embeds](/discord/remove-embeds) | Removes preview from links. |
