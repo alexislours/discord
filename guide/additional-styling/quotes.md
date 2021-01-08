@@ -26,7 +26,7 @@ Example:
 
 \>\>\> This is a   
 multi line   
-block quote
+quote
 
 Result:
 
