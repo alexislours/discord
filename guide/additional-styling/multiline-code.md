@@ -8,7 +8,7 @@ permalink: multiline-code/
 
 # Multiline Code Block
 
-Encapsulating your text with three backtick (`` ``` ``) will create an multiline code block. Multi line code block benefit from syntax highlighting if you specify a language after the first 3 backticks and preserve indenting of code.
+Encapsulating your text with three backtick (```` ``` ````) will create an multiline code block. Multi line code block benefit from syntax highlighting if you specify a language after the first 3 backticks and preserve indenting of code.
 
 Example:
 
