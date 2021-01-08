@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Inline Code Block
+title: Removing Embeds
 nav_order: 13
 parent: Additional Styling
 permalink: remove-embeds/
