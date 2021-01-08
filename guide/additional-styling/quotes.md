@@ -16,7 +16,7 @@ Example:
 
 Result:
 
-> This is a quote.
+![Quote](/discord/assets/quote.png)
 
 ## Multiline quotes
 
@@ -30,6 +30,4 @@ block quote
 
 Result:
 
-> This is a   
-multi line   
-block quote
+![Quote](/discord/assets/multiline-quote.png)
