@@ -193,7 +193,7 @@ Discord supports a lot of programming languages, the list of said languages and 
 | Shell                   | shell, console         |
 | Smali                   | smali                  |
 | Smalltalk               | smalltalk, st          |
-| SML                     | sml, ml                |
+| SML                     | sml                    |
 | Stan                    | stan, stanfuncs        |
 | Stata                   | stata                  |
 | Stylus                  | stylus, styl           |
