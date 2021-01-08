@@ -13,7 +13,7 @@ Languages have keywords that won't respect the colors listed below.
 
 ### Grey:
 
-You can get grey by using the brainfuck or bash (start line with #) languages.
+You can get grey by using the brainfuck or bash (start line with `#`) languages.
 
 ![Brainfuck Grey](/discord/assets/Grey_Brainfuck.png)  
 ![Bash Grey](/discord/assets/Grey_Bash.png)
@@ -21,7 +21,7 @@ You can get grey by using the brainfuck or bash (start line with #) languages.
 
 ### Green:
 
-You can get green by using the CSS or diff (start line with +) languages.
+You can get green by using the CSS or diff (start line with `+`) languages.
 
 ![CSS Green](/discord/assets/Green_CSS.png)  
 ![Diff Green](/discord/assets/Green_Diff.png)
