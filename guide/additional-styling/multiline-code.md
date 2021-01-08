@@ -129,7 +129,7 @@ Discord supports a lot of programming languages, the list of said languages and 
 | Kotlin                  | kotlin, kt             |
 | LaTeX                   | tex                    |
 | Leaf                    | leaf                   |
-| Lasso                   | lasso, ls, lassoscript |
+| Lasso                   | lasso, lassoscript     |
 | Less                    | less                   |
 | LDIF                    | ldif                   |
 | Lisp                    | lisp                   |
