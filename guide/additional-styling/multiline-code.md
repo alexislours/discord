@@ -65,9 +65,9 @@ Discord supports a lot of programming languages, the list of said languages and 
 | Arcade                  | arcade                 |
 | AsciiDoc                | asciidoc, adoc         |
 | AspectJ                 | aspectj                |
-| AutoHotkey              | autohotkey             |
+| AutoHotkey              | autohotkey, ahk        |
 | AutoIt                  | autoit                 |
-| Awk                     | awk, mawk, nawk, gawk  |
+| Awk                     | awk                    |
 | Bash                    | bash, sh, zsh          |
 | Basic                   | basic                  |
 | BNF                     | bnf                    |
@@ -110,7 +110,6 @@ Discord supports a lot of programming languages, the list of said languages and 
 | GAUSS                   | gauss, gss             |
 | Gherkin                 | gherkin                |
 | Go                      | go, golang             |
-| Golo                    | golo, gololang         |
 | Gradle                  | gradle                 |
 | Groovy                  | groovy                 |
 | HTML, XML               | xml, html, xhtml, rss, atom, xjb, xsd, xsl, plist, svg |
@@ -137,7 +136,7 @@ Discord supports a lot of programming languages, the list of said languages and 
 | LiveCode Server         | livecodeserver         |
 | LiveScript              | livescript, ls         |
 | Lua                     | lua                    |
-| Makefile                | makefile, mk, mak, make |
+| Makefile                | makefile, mk, mak,     |
 | Markdown                | markdown, md, mkdown, mkd |
 | Mathematica             | mathematica, mma, wl   |
 | Matlab                  | matlab                 |
@@ -151,10 +150,10 @@ Discord supports a lot of programming languages, the list of said languages and 
 | N1QL                    | n1ql                   |
 | NSIS                    | nsis                   |
 | Nginx                   | nginx, nginxconf       |
-| Nim                     | nim, nimrod            |
+| Nim                     | nim                    |
 | Nix                     | nix                    |
 | OCaml                   | ocaml, ml              |
-| Objective C             | objectivec, mm, objc, obj-c, obj-c++, objective-c++ |
+| Objective C             | objectivec, mm, objc, obj-c |
 | OpenGL Shading Language | glsl                   |
 | OpenSCAD                | openscad, scad         |
 | Oracle Rules Language   | ruleslanguage          |
@@ -184,7 +183,7 @@ Discord supports a lot of programming languages, the list of said languages and 
 | Roboconf                | graph, instances       |
 | Ruby                    | ruby, rb, gemspec, podspec, thor, irb |
 | Rust                    | rust, rs               |
-| SAS                     | SAS, sas               |
+| SAS                     | sas                    |
 | SCSS                    | scss                   |
 | SQL                     | sql                    |
 | STEP Part 21            | p21, step, stp         |
@@ -212,7 +211,7 @@ Discord supports a lot of programming languages, the list of said languages and 
 | Vala                    | vala                   |
 | Verilog                 | verilog, v             |
 | Vim Script              | vim                    |
-| X++                     | axapta, x++            |
+| X++                     | axapta                 |
 | x86 Assembly            | x86asm                 |
 | XL                      | xl, tao                |
 | XQuery                  | xquery, xpath, xq      |
