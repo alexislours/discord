@@ -5,7 +5,7 @@ nav_order: 1
 permalink: /
 ---
 
-# Discord MD v1.0.1
+# Discord MD v1.0.2
 
 ## Introduction
 
