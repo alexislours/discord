@@ -5,7 +5,9 @@ nav_order: 1
 permalink: /
 ---
 
-# Introduction
+# Discord MD v1.0.1
+
+## Introduction
 
 Discord MD is a simple guide to learn the Markdown flavor [Discord](https://discord.com/) uses.
 

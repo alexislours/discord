@@ -18,6 +18,10 @@ PRs are welcome, you can also contact me on Discord (Alexis#8717) for feedback o
 <details>
 <summary>Click here to open</summary>
 
+## 1.0.1
+- Change color of the text to blue
+- Add version number to home page
+
 ## 1.0.0
 - Initial release of the guide.
 
