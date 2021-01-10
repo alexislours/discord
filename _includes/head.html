@@ -3,18 +3,27 @@
   <meta http-equiv="X-UA-Compatible" content="IE=Edge">
   <link rel="shortcut icon" type="image/x-icon" href="assets/favicon.ico">
   <meta name="theme-color" content="#1a1a1a">
-  <meta name="twitter:card" content="summary"/>
-  <meta name="twitter:title" content="{{ page.title }} | Discord MD"/>
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="{{ page.title }} | Discord MD" />
   <meta name="theme-color" content="#1a1a1a">
-  <meta name="apple-mobile-web-app-capable" content="yes"/>
-  <meta name="twitter:image" content="https://alexislours.github.io/discord/assets/logo_sq.png"/>
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="twitter:image" content="https://alexislours.github.io/discord/assets/logo_sq.png" />
   <link rel="manifest" href="https://alexislours.github.io/discord/manifest.json">
   <script src="https://alexislours.github.io/discord/serviceloader.js"></script>
   <link rel="stylesheet" href="{{ '/assets/css/just-the-docs-default.css' | relative_url }}">
   {% if site.search_enabled != false %}
-    <script type="text/javascript" src="{{ '/assets/js/vendor/lunr.min.js' | relative_url }}"></script>
+  <script type="text/javascript" src="{{ '/assets/js/vendor/lunr.min.js' | relative_url }}"></script>
   {% endif %}
   <script type="text/javascript" src="{{ '/assets/js/just-the-docs.js' | relative_url }}"></script>
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-BG31QDE14P"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-BG31QDE14P');
+  </script>
   {% seo %}
 </head>
