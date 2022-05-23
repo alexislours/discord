@@ -6,7 +6,7 @@ permalink: colors/
 ---
 
 # Colors
-As we saw above, we can use specific languages in [multiline code blocks](/discord/multiline-code) to get syntac highlighting. This can be used to our advantage to get our text in a certain color. Discord uses the Solarized Dark Theme, so there are only 7 colors that are available inside code blocks on top of the default message color.
+As we saw above, we can use specific languages in [multiline code blocks](/discord/multiline-code) to get syntax highlighting. This can be used to our advantage to get our text in a certain color. Discord uses the Solarized Dark Theme, so there are only 7 colors that are available inside code blocks on top of the default message color.
 
 {: .note}
 Languages have keywords that won't respect the colors listed below.
